@@ -88,7 +88,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 //     value: progress,
                 //   ),
                 // ),
-                url: "https://unibenbooks.blogspot.com/",
+                url: "https://dera01.blogspot.com/?m=1",
               ),
             ),
           ],
